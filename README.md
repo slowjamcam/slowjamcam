@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slowjamcam
-- 👀 I’m interested in sports, and gaming
-- 🌱 I’m currently learning mutiple languges like Python, Java / JavaScript, HTML 
-- 💞️ I’m looking to collaborate on Python and Java/JavaScript Projects
+- 👀 I’m interested in gaming 🎮 and sports 🏀
+- 🌱 I’m currently learning Python, JavaScript, mySQL, HTML Languages
+- 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me camham133@gmail.com
