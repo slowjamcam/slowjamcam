@@ -2,4 +2,4 @@
 - 👀 I’m interested in sports, and gaming
 - 🌱 I’m currently learning mutiple languges like Python, Java / JavaScript, HTML 
 - 💞️ I’m looking to collaborate on Python and Java/JavaScript Projects
-- 📫 How to reach me slowjamcham@gmail.com
+- 📫 How to reach me camham133@gmail.com
