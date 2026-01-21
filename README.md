@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @slowjamcam
-- 👀 I’m interested in gaming 🎮 and sports 🏀
-- 🌱 I’m currently learning Python, JavaScript, mySQL, HTML Languages
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me camham133@gmail.com
+- 👀 https://cameronhampton.com
+- 🌱 I’m currently learning JavaScript,
+- 
