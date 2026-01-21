@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @slowjamcam
 - 👀 https://cameronhampton.com
-- 🌱 I’m currently learning JavaScript,
-- 
+- 🌱 I’m currently learning Java
